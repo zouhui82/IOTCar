@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: HuiZou
-  host: huizou
+  name: zouhuitest3
+  host: zouhuitest3
   disk_quota: 1024M
